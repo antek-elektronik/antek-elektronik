@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @antek-elektronik
 - 👀 I’m interested in electronics, c++, c#, python, and html/css/js
-- 🌱 I’m currently learning electronics at technical school and python from internet
+- 🌱 I’m currently learning electronic engineering at technical school and python from internet
 
 <!---
 antek-elektronik/antek-elektronik is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
